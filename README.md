@@ -4,6 +4,6 @@ This repository contains a collection of NASA polynomials for thermodynamic prop
 
 I've used these data in various research contexts, and you may find them useful—especially when dealing with unknown species in CFD simulations.
 
-If you've found your way here, I assume you know what you're doing, so I won't go into detailed explanations of the data. The format for most of data is explained [here](https://github.com/Raphael-Boichot/JANAF-thermochemical-tables-to-NASA-Glenn-coefficients-converter).
+If you've found your way here, I assume you know what you're doing, so I won't go into detailed explanations of the data. The format for most of data is explained [here](https://github.com/Raphael-Boichot/JANAF-thermochemical-tables-to-NASA-Glenn-coefficients-converter). Most files are yet format ready for Chemkin-III, so probably format ready for ANSYS-Fluent.
 
 This repository will be updated at my own pace (or not). If you recognize any file you authored and would like it removed, please let me know.
